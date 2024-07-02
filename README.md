@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gourav0169
+- 👋 Hi, I’m @Gourav Dash
 - 👀 I’m interested in C#, .Net Technologies, Azure
-- 🌱 I’m currently learning Asp.Net Core
+- 🌱 I’m currently working with Asp.Net Core
 - 💞️ I’m looking to collaborate on ideas on building a product, coding assistance and sharing ideas and visions
 - 📫 How to reach me @9437138313
 
