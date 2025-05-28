@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gourav Dash
-- 👀 I’m interested in C#, .Net Technologies, Azure
+- 👀 I’m interested in building C#, .Net Technologies, Azure, React, Angular and AI apps
 - 🌱 I’m currently working with Asp.Net Core
 - 💞️ I’m looking to collaborate on ideas on building a product, coding assistance and sharing ideas and visions
 - 📫 How to reach me @9437138313
